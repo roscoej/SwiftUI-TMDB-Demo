@@ -10,4 +10,4 @@ Xcode 13, Swift 5.
 3. Run the app.
 
 ### Sample output
-![](Simulator Screen Recording - iPhone 13.mov)
+![](Simulator Screen Recording - iPhone 13.gif)
